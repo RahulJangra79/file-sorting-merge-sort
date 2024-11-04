@@ -18,8 +18,8 @@ sorts them, and writes the sorted lines to an output text file. The sorted conte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/merge-sort-file-sorter.git
-   cd merge-sort-file-sorter
+   git clone https://github.com/RahulJangra79/file-sorting-merge-sort
+   cd file-sorting-merge-sort
    ```
 
 2. **Prepare your input file**: Create a text file named `Input_file_merge_sort.txt` in the project directory, and add the lines you want to sort.
